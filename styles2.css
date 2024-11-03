@@ -1,0 +1,14 @@
+.inbox{
+    background-color: plum;
+    height: 200px;
+    margin: 15px 0px;
+}
+.sec1{
+    background-color: purple;
+}
+.row{
+    background-color: indigo;
+}
+.col-sm-4{
+    background-color: rgb(102, 91, 176);
+}
